@@ -4,6 +4,6 @@ slug  : 4096-recursion
 seal  : 0156449910eeca0b7b174c3459991c67c905c37018c896186ed4287b24b3a2ae
 prev  : cccb607c6fb3318c3a63197bc39c449839644b5bf2f9cea841b6c05c29dfb3f1
 link  : f99c9a2430e0defcab0f5785375c2185aa0938ae2bc5aaab4665e45a508619d8
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
